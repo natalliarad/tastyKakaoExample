@@ -14,4 +14,6 @@ To run the app, you need an API key:
 Made by article https://www.raywenderlich.com/1505688-ui-testing-with-kakao-tutorial-for-android-getting-started
 
 ![](https://github.com/natalliarad/tastyKakaoExample/blob/master/tasty_search.gif)
+
+
 ![](https://github.com/natalliarad/tastyKakaoExample/blob/master/tasty_add_to_favourites.gif)
